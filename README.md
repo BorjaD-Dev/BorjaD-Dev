@@ -1,35 +1,34 @@
-# Hi, I'm Borja D. 👋 (`BorjaD-Dev`)
+# Hola, soy Borja Delgado 👋 (`BorjaD-Dev`)
 
-### 🚀 Software Developer | Game Dev Enthusiast | Athlete
+### 🚀 Desarrollador de Software | Apasionado por la Arquitectura y el Game Dev
 
-I am a 1st year **DAM (Multiplatform Application Development)** student with a strong technical background in **SMIX**. My mission is to bridge the gap between high-performance habits and high-quality code. 
-
----
-
-## 🛠️ Tech Stack & Skills
-- **Languages:** Java (DAM focus), C# / GDScript (Game Dev)
-- **Technical Base:** Systems & Networking (SMIX)
-- **Tools:** Git, GitHub, Unity/Godot, Notion, Bitwarden
-- **Performance:** Clean Code, Object-Oriented Programming (OOP)
+[cite_start]Estudiante de 1º de **DAM** con una sólida base técnica en **SMIX**[cite: 86, 108, 110]. [cite_start]Me enfoco en aportar capacidad analítica y pasión por el código limpio y la gestión eficiente de datos[cite: 88, 92].
 
 ---
 
-## 🕹️ Currently Working On:
-- **Bullet Heaven / Roguelite:** A data-driven project for **Steam**. 
-- Scaling my software architecture to "Big Tech" standards.
+## 🛠️ Stack Tecnológico
+- [cite_start]**Lenguajes:** Java (Avanzado: POO y lógica de negocio), C# (Intermedio: Scripting en Unity) y SQL[cite: 95].
+- [cite_start]**Tecnologías:** HTML, CSS, JSON, XML y Markdown[cite: 96].
+- [cite_start]**Herramientas:** Unity Engine (URP), IntelliJ, Rider, VS Code, Git y GitHub[cite: 98].
 
 ---
 
-## ⚡ High Performance & Discipline
-I believe that a strong body builds a sharp mind.
-- **Daily Consistency:** 80 push-ups, strength training (50kg dumbbells), and strict health habits.
-- **Deep Work:** 2+ hours of focused development daily.
-- **Health:** 20-20-20 rule advocate & Biohacking enthusiast.
+## 🕹️ Proyectos en Desarrollo
+- [cite_start]**Action Roguelite (Extraction-lite):** Desarrollo de un proyecto independiente en Unity (C#) con perspectiva 2.5D y control de versiones mediante Git[cite: 119, 120].
 
 ---
 
-## 📫 Let's Connect:
-- 💼 Aiming for: Big Tech Internships & Game Studio Founding.
+## 💼 Experiencia Destacada
+- [cite_start]**GIGABYTE Technology España S.L.U.:** Prácticas profesionales (Junio - Noviembre 2024)[cite: 113, 115].
+- [cite_start]**Residència Erasmus Gràcia:** Ayudante de mantenimiento (Febrero - Junio 2025)[cite: 116, 117].
 
 ---
-![Borja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BorjaD-Dev&show_icons=true&theme=radical)
+
+## ⚡ Disciplina y Rendimiento
+- **Entrenamiento Diario:** Mantengo una rutina de actividad física constante para asegurar un alto rendimiento cognitivo y enfoque en el desarrollo.
+- [cite_start]**Salud y Hábitos:** Aplicación rigurosa de la regla 20-20-20 para la salud visual durante largas jornadas de código[cite: 19].
+- [cite_start]**Mentalidad:** Orientado al orden, la calidad y el aprendizaje rápido de nuevas tecnologías[cite: 92, 93].
+
+---
+
+![Estadísticas de GitHub de Borja](https://github-readme-stats.vercel.app/api?username=BorjaD-Dev&show_icons=true&theme=radical)
